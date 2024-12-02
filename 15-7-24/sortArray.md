@@ -1,6 +1,6 @@
 # sort array
 
-``` java []
+```java []
 
 import java.util.*;
 class SortArray {
